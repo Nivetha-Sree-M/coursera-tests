@@ -1,3 +1,5 @@
 # coursera-tests
 Coursera test repository
-theme: slate
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+
